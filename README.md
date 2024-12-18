@@ -1,12 +1,9 @@
-# GARCHTImplementation
-GARCH
+# Intraday GARCH Trading Strategy
 
-
-# StockPricePredictionUsingLSTM
-LSTM Price Movement Predictions For Trading Algorithms
- This Code focuses on collecting dataset and train LSTM RNN Model to predict.
+GARCH based Price Movement Predictions For Trading Algorithms
+ This Code focuses on collecting dataset and uses GARCH to forecase intraday strategy.
  Currently it has following technical indicators:
-      - RSI
+      - RSI 
       - EMAF
       - EMAM
       - EMAS
