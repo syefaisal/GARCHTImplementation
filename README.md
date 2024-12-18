@@ -1,0 +1,2 @@
+# GARCHTImplementation
+GARCH
